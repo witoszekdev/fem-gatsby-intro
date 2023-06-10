@@ -18,7 +18,7 @@
     "@emotion/styled": "^10.0.10",
     "@mdx-js/mdx": "^1.0.15",
     "@mdx-js/react": "^1.0.15",
-    "gatsby": "^2.3.16",
+    "gatsby": "^4.25.7",
     "gatsby-background-image": "^0.4.1",
     "gatsby-image": "^2.0.40",
     "gatsby-mdx": "^0.6.2",
